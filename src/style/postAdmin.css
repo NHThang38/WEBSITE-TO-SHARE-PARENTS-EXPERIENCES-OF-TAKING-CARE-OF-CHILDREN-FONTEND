@@ -1,0 +1,82 @@
+
+
+.Post_content{
+    /* position: relative; */
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background: rgb(249, 248, 248); */
+}
+
+/* .list_post{
+    min-height: 614px;
+    background: rgb(249, 248, 248);
+    padding: 10px;
+    box-shadow:  0 4px 8px 0 rgba(96, 96, 96, 0.2);
+} */
+/* .search_check{
+    height: 448px;
+    width: 100%;
+    overflow-y: scroll;
+} */
+.list_post_content{
+    height: 432px;
+      overflow-y: scroll;
+}
+
+
+.table_group1 {
+    margin-top:10px ;
+    width: 100%;
+    border-collapse: collapse;
+    /* overflow-y: scroll; */
+}   
+
+
+
+.table_group1 tr:last-child {
+    border-bottom: 1px none;
+    
+}
+.table_group1 thead td { 
+    font-weight: 700;
+    color:#030303;
+    
+}
+.table_group1 tr {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    
+}
+.table_group1 tr:hover{
+    background: rgba(27, 24, 24, 0.267);
+    color: #FFF;
+}
+.table_group1 td {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    
+}
+td{ 
+    padding: 9px 5px;
+}
+
+.last-appointments .table_group1 tbody td:last-child {
+    white-space: nowrap;
+}
+td i {
+    padding: 7px;
+    color:  #ffff;
+    border-radius: 50px;
+    margin-right: 3px;
+}
+td .fa-eye {
+    background:  #32bea6;
+}
+td .fa-check {
+    background:  #38e672;
+}
+td .fa-trash-alt {
+    background:  #ed5564;
+}
+
+

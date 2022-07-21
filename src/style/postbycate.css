@@ -1,0 +1,118 @@
+/* .posts_category {
+  width: 100%;
+}
+
+.posts_category h4 a {
+  text-transform: uppercase;
+  text-decoration: none;
+  color: black;
+  letter-spacing: 3;
+  margin-top: 1rem;
+  cursor: pointer;
+}
+
+.posts_category h4:hover a {
+  color: crimson;
+}
+
+.posts_category h5 a small{
+  font-size: 15px;
+}
+.posts_category .show_posts {
+  width: 100%;
+  height: 70;
+
+}
+.posts_category .show_posts a {
+  color: black;
+  text-decoration: none;
+}
+.posts_category .show_posts .news_block{
+  margin-bottom: 10px;
+  background:#f4f3f3;
+}
+.posts_category .show_posts:hover h5 a {
+  color: crimson;
+}
+.posts_category .show_posts small a {
+  color: darkblue;
+} */
+/* .posts_category {
+  width: 100%;
+}
+
+.posts_category h4 a {
+  text-transform: uppercase;
+  text-decoration: none;
+  color: black;
+  letter-spacing: 3;
+  margin-top: 1rem;
+  cursor: pointer;
+}
+
+.posts_category h4:hover a {
+  color: crimson;
+}
+
+.posts_category h5 a small{
+  font-size: 15px;
+}
+.posts_category .show_posts {
+  width: 100%;
+  height: 70;
+
+}
+.posts_category .show_posts a {
+  color: black;
+  text-decoration: none;
+}
+.posts_category .show_posts .news_block{
+  margin-bottom: 10px;
+  background:#f4f3f3;
+}
+.posts_category .show_posts:hover h5 a {
+  color: crimson;
+}
+.posts_category .show_posts small a {
+  color: darkblue;
+} */
+.posts_category {
+  width: 100%;
+}
+
+
+.posts_category h4 a {
+  text-transform: uppercase;
+  text-decoration: none;
+  color: black;
+  letter-spacing: 3;
+  margin-top: 1rem;
+  cursor: pointer;
+}
+
+.posts_category h4:hover a {
+  color: crimson;
+}
+
+.posts_category h5 a small{
+  font-size: 15px;
+}
+.posts_category .show_posts {
+  width: 100%;
+  height: 70;
+
+}
+.posts_category .show_posts a {
+  color: black;
+  text-decoration: none;
+}
+.posts_category .show_posts .news_block{
+  margin-bottom: 10px;
+  background:#f4f3f3;
+}
+.posts_category .show_posts:hover h5 a {
+  color: crimson;
+}
+.posts_category .show_posts small a {
+  color: darkblue;
+}

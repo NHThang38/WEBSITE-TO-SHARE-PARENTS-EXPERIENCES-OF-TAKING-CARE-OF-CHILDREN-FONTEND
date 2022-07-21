@@ -1,0 +1,36 @@
+.left_content{
+    background-color: #eff5f9e6;
+}
+.content_Post{
+    background-color:#ecf0f1 ;
+    margin-top: 12px;
+    padding:10px;
+    border: 1px solid rgb(99, 110, 114);
+}
+.content_Post:hover{
+    background-color:#805c8b4f ;
+ 
+
+}
+
+.hi:hover{
+    background: #e5caed4f;
+    
+}
+
+
+.icon-1x {
+    font-size: 24px !important;
+}
+a{
+    text-decoration:none;    
+}
+.text-primary, a.text-primary:focus, a.text-primary:hover {
+    color: #00ADBB!important;
+}
+.text-black, .text-hover-black:hover {
+    color: #000 !important;
+}
+.font-weight-bold {
+    font-weight: 700 !important;
+}

@@ -1,0 +1,113 @@
+/* cards */
+.cards {
+    width: 100%;
+    padding: 30px 16px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 50px;
+    align-items: center center;
+    text-align: center;
+
+}
+.cards .card {
+    background: linear-gradient(45deg, #62a59c,#f4c6c6, #e672b8);
+    /* background: linear-gradient(45deg,  #47cebe, #ef4a82); */
+    padding: 14x;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+    margin: 0 40px;
+}
+.cards .card .number {
+    font-size: 35px;
+    font-weight: 500;
+    color: #ffff;
+}
+.cards .card .card-name {
+    font-size: 13px;
+    color: #030303;
+    font-weight:600;
+}
+.cards .card i {
+    font-size: 45px;
+    color: #201818;
+}
+
+.table_group {
+    margin-top:10px ;
+    width: 100%;
+    border-collapse: collapse;
+    
+}   
+
+.statistical_list{
+    padding-left: 10px;
+    width: 99%;
+    height: 350px;
+    overflow-y: scroll;
+    font-size: 15px;
+}
+
+.table_group tr:last-child {
+    border-bottom: 1px none;
+    
+}
+.table_group thead td { 
+    font-weight: 700;
+    color:#030303;
+    
+}
+.table_group tr {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    
+}
+.table_group tr:hover{
+    background: rgba(27, 24, 24, 0.267);
+    color: #FFF;
+}
+.table_group td {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    
+}
+td{ 
+    padding: 6px 5px;
+}
+
+.last-appointments .table_group tbody td:last-child {
+    white-space: nowrap;
+}
+td i {
+    padding: 7px;
+    color:  #ffff;
+    border-radius: 50px;
+    margin-right: 3px;
+}
+td .fa-eye {
+    background:  #32bea6;
+}
+td .fa-edit {
+    background:  #63b4f4;
+}
+td .fa-trash-alt {
+    background:  #ed5564;
+}
+/* .search_NC{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+.search_NC input{
+    margin-top: 20px;
+    width: 300px;
+    height: 40px;
+    font-size: 20px;
+    padding-left: 10px;
+    
+}
+.user {
+    padding: 8px;
+    font-size: 18px;
+} */

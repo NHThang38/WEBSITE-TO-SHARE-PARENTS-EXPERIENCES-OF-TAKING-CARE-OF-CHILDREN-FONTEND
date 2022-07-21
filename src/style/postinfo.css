@@ -1,0 +1,13 @@
+.post_info{
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  margin-left: 10px;
+  border: 1px solid #ddd;
+  background:#f4f3f3;
+  cursor: pointer;
+}
+.detailbv{
+  border-radius: 10px;
+  background-color: rgba(239, 247, 249, 0.985);
+}

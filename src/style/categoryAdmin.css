@@ -1,0 +1,25 @@
+.category{
+  max-width: 600px;
+  justify-content: space-around;
+  /* margin: 1.7rem auto;s */
+  padding: 0;
+  margin: 0 auto;
+
+}
+.category form {
+  width: 100%;
+  margin-bottom: 1.2rem;
+}
+.category form button {
+  background-color: #555;
+  color: white;
+}
+.category .category_row{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  margin-bottom: 1rem;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
